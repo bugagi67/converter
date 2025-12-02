@@ -41,8 +41,8 @@ export const FIELD_MAP = {
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/yourname/price-converter.git
-cd price-converter
+git clone https://github.com/bugagi67/converter.git
+cd converter
 
 # Установи зависимости
 npm install
@@ -58,7 +58,7 @@ npm run dev
 ### Используемые технологии
 
 - React 18
-- Vite (быстрый старт и HMR)
+- Vite 
 - SheetJS (xlsx) — парсинг Excel и CSV
 - Нативный DOMParser — для XML/YML
 - Zero dependencies для UI (только inline-стили)
